@@ -30,14 +30,14 @@ Ensure your repository is public and submitted by **August 9, 2024, 23:59pm US E
 Ensure your repository does not contain any personal or team tokens/access information to access backends. Ensure your repository does not contain any third-party intellectual property (logos, company names, copied literature, or code). Any resources used must be open source or appropriately referenced.
 
 ### Team Information:
-Team Member 1: _(full name)_
- - Email:
- - Discord ID:
- - GitHub ID:
- - Nationality:
- - Current affiliation:
+Team Member 1: Adriano Lusso
+ - Email: lussoadriano@gmail.com
+ - Discord ID: AdriLusso#9793
+ - GitHub ID: AdrianoLusso
+ - Nationality: Argentina
+ - Current affiliation: Grupo de Investigación en Lenguajes e Inteligencia Artificial (GILIA), Universidad Nacional del Comahue
 
-Team Member 2: _(full name)_
+Team Member 2: Jalal Naghiyev
  - Email:
  - Discord ID:
  - GitHub ID:

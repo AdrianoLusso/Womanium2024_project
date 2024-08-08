@@ -38,16 +38,29 @@ Team Member 1: Adriano Lusso
  - Current affiliation: Grupo de Investigación en Lenguajes e Inteligencia Artificial (GILIA), Universidad Nacional del Comahue
 
 Team Member 2: Jalal Naghiyev
- - Email:
- - Discord ID:
- - GitHub ID:
- - Nationality:
- - Current affiliation:
+ - Email: jalal0601@gmail.com
+ - Discord ID: Jalaln06#5484
+ - GitHub ID: Jalaln06
+ - Nationality: Azerbaijan
+ - Current affiliation: ITMO University
 
 ### Project Solution:
-_Include a comprehensive summary of all important information about your project solution here._
-All necessary code files and any additional information required to judge your project solution should be included in the repository. 
+The repository is structured in 5 main folders, each of them corresponding to each task.
+
+1. a .md file explaining what we learnt during Pennylane tutorials, and a link to the account where we made some of the corresponding code exercises.
+2. use the notebook task2.ipynb to see the implementation of a Variational Classifier.
+3. use the notebook task3.ipynb to see the implementation of a Quanvolutional Neural Network (QCNN).
+4. use the notebook task4.ipynb to see the implementation of a regression model which predicts many trigonometrical functions (not just a simple sine function :D).
+5. For the conspicuity detection, we defined two models:
+    1.  a multi-classification model using a QCNN (inspired in task 3). Here, we focus in classifying each of the six categories independently.
+    2.  a binary classification model with a Quantum Variational Autoencoder. Here, the categories associated to conspicueties (1 to 5) where considered a unique category, and the good weld the second category. The idea is to diferentiate if the production part is defective or not.
 
 ### Project Presentation Deck:
-_Link a 5min. presentation recording or deck here._
+(5 minutes presentation, asked in this MD)
 
+https://www.youtube.com/watch?v=QmIbuE2fJMI
+
+
+(3 minutes presentation, asked by Womanium)
+
+available in this repository
